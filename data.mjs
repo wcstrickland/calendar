@@ -90,20 +90,20 @@ let data = {
     "13": [{
         "title": "Gladys",
         "location" : "Saturn",
-        "time": "",
+        "time": "8PM",
         "link": "https://wl.seetickets.us/event/Gladys-Improv/591873?afflky=SaturnBirmingham",
         "img": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWJmMTQ2OWMtMWUwYS00MDc3LTg2NWEtYTIyMzI3OThhYzRkIiwiZWRpdHMiOnt9fQ=="
     },{
         "title": "Improv At The Cinema",
         "location" : "Sidewalk",
-        "time": "",
+        "time": "7PM",
         "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023885?",
         "img": "https://uploads.tickettailor.com/c_crop,dpr_1.0,h_635,q_100,w_2000,x_0,y_1/c_scale,g_center,h_373,q_85,w_1172/v1/production/userfiles/xujgi97cxvaeu8y7xy8k.jpg?_a=BAAASyDQ"
     }],
     "14": [{
         "title": "Gladys",
         "location" : "Saturn",
-        "time": "",
+        "time": "8PM",
         "link": "https://wl.seetickets.us/event/gladys-improv/591664?afflky=SaturnBirmingham",
         "img": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWJmMTQ2OWMtMWUwYS00MDc3LTg2NWEtYTIyMzI3OThhYzRkIiwiZWRpdHMiOnt9fQ=="
     }],
@@ -159,7 +159,7 @@ let data = {
     "22": [{
         "title": "Gladys",
         "location" : "Little Professor",
-        "time": "",
+        "time": "TBD",
         "link": "https://www.instagram.com/p/C38MqLYRR4H/",
         "img": "https://cdn.discordapp.com/attachments/1162939043332501576/1212831459497345155/430173313_3660646624179507_5685130002341259563_n.jpg?ex=65f34451&is=65e0cf51&hm=118c2ff49efb0fe6873df8d421ffa1ff3699c83a7faed45ac9cb3e87a9cd57f8&"
     }],
