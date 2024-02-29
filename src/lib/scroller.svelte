@@ -27,7 +27,7 @@ function getDayOfWeek(date, monthStartDay){
 <div style="display:flex; flex-direction:column">
     {#each days as day}
     {#if data[day][0]["title"]!=="" &&data[day][0]["title"]!==undefined}
-        <h4>{getDayOfWeek(day, data.dayOfFirst)}  {month} {day}</h4>
+        <h1>{getDayOfWeek(day, data.dayOfFirst)}  {month} {day}</h1>
         {:else}
         <div style="margin-top:.5em;"></div>
     {/if}
