@@ -24,7 +24,7 @@ export let data;
           <div class="content">
             <a href={data.link}>Details</a>
             <br>
-            <time>{data.time}</time>
+            <time>Time: {data.time}</time>
           </div>
         </div>
       </div>
