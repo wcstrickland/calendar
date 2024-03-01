@@ -1,6 +1,7 @@
 <script>
   import Row from "./row.svelte";
   import Header from "./header.svelte";
+  export let useMonth;
   export let month;
   export let dayOfFirst;
   export let numDays;
@@ -43,7 +44,7 @@
 >
   <Header />
   {#each weeks as week }
-    <Row days={week}/>
+    <Row useMonth={useMonth} days={week}/>
   {/each}
 </div>
 

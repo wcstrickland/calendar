@@ -1,6 +1,7 @@
 <script>
   import Calendar from "./lib/calendar.svelte";
-  import data from "../data.mjs";
+  import currentMonth from "../currentMonth.mjs";
+  import nextMonth from "../nextMonth.mjs";
   import Scroller from "./lib/scroller.svelte";
   let screenSize = window.innerWidth;
 </script>
@@ -8,12 +9,20 @@
 <main>
   {#if screenSize > 725}
     <Calendar
-      dayOfFirst={data.dayOfFirst}
-      numDays={data.numDays}
-      month={data.month}
+      useMonth={currentMonth}
+      dayOfFirst={currentMonth.dayOfFirst}
+      numDays={currentMonth.numDays}
+      month={currentMonth.month}
+    />
+    <Calendar
+      useMonth={nextMonth}
+      dayOfFirst={nextMonth.dayOfFirst}
+      numDays={nextMonth.numDays}
+      month={nextMonth.month}
     />
   {:else}
-    <Scroller month={data.month} />
+    <Scroller month={currentMonth} />
+    <Scroller month={nextMonth} />
   {/if}
 </main>
 

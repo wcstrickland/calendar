@@ -1,8 +1,9 @@
 <script>
   export let label;
-  import data from "../../data.mjs";
-  let events = data[label];
-  let multi = events.length > 1;
+  export let useMonth;
+  import currentMonth from "../../currentMonth.mjs";
+  let events = useMonth[label];
+  
 </script>
 
 <div id="cell" style="display: flex; flex-direction:row;">
@@ -12,7 +13,7 @@
     {#if event["link"] !== undefined && event["link"] !== ""}
       <a href={event["link"]} target="_blank">
         <img
-          alt="alt-text"
+          alt={event["title"]}
           style="max-width: 80%; max-height:80%;margin-top:.5em;"
           src={event["img"]}
         />

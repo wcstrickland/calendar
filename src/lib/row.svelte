@@ -1,12 +1,13 @@
 <script>
     import Cell from "./cell.svelte";
     export let days;
+    export let useMonth;
 
 </script>
 
 <div id="header" style="display: flex;justify-content:space-evenly">
     {#each days as day }
-        <Cell label={day}/>
+        <Cell useMonth={useMonth} label={day}/>
     {/each}
 
 </div>
