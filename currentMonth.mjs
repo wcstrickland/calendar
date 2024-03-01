@@ -108,11 +108,11 @@ let data = {
         "img": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiZWJmMTQ2OWMtMWUwYS00MDc3LTg2NWEtYTIyMzI3OThhYzRkIiwiZWRpdHMiOnt9fQ=="
     }],
     "15": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "ETC",
+        "location" : "Homewood Theatre",
+        "time": "7:30 & 9:30 PM",
+        "link": "http://extemporaneoustheatre.com/boxoffice.asp",
+        "img": "https://media.discordapp.net/attachments/1162939991220043787/1212979053045219378/image.png?ex=65f3cdc6&is=65e158c6&hm=f286a1ab6d7bbacd26bb9c96b7e5e4968e9e623af8df8ca9d0b3d8e9ad40b984&=&format=webp&quality=lossless"
     }],
     "16": [{
         "title": "",
@@ -192,11 +192,11 @@ let data = {
         "img": ""
     }],
     "27": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "CGI Bingo",
+        "location" : "Sidewalk",
+        "time": "7PM",
+        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1146251?",
+        "img": "https://uploads.tickettailor.com/c_crop,dpr_1.0,h_500,q_100,w_500,x_0,y_0/c_scale,h_108,q_85,w_108/v1/production/userfiles/jyycyfrcfdl9mbolvx8d.jpg?_a=BAAASyDQ"
     }],
     "28": [{
         "title": "",
