@@ -1,7 +1,7 @@
 <script>
 
 export let month;
-import Card from "./card.svelte";
+import EventCard from "./eventCard.svelte";
 let days = [];
 
 for(let i=1;i<=month.numDays;i++){
@@ -32,7 +32,7 @@ function getDayOfWeek(date, monthStartDay){
     {/if}
         {#each month[day] as event}
             {#if event["title"] !== "" && event["title"]  !== undefined}
-                <Card  data={event}/> 
+                <EventCard  data={event}/> 
             {/if}
         {/each}
     {/each}
