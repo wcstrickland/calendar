@@ -1,6 +1,6 @@
 let data = {
     "month": "April",
-    "dayOfFirst": 1,
+    "dayOfFirst": 0,
     "numDays": 30,
     "x" : [{}],
     "1": [{
