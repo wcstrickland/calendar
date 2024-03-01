@@ -3,7 +3,7 @@ export let data;
 </script>
 
 <div class="card">
-  <img src={data.img} alt="Avatar" style="width:100%" />
+  <a href={data.img}><img src={data.img} alt="Avatar" style="width:100%" /></a>
   <div class="container">
     <div style="margin-top:.5em;"><b>{data.title}</b></div>
     <div>@ {data.location}</div>
