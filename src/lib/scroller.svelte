@@ -29,8 +29,6 @@
     {#if i >= today.getDate() || !currentMonth}
       {#if month[day][0]["title"] !== "" && month[day][0]["title"] !== undefined}
         <h1>{getDayOfWeek(day, month.dayOfFirst)} {month.month} {day}</h1>
-      {:else}
-        <div style="margin-top:.5em;"></div>
       {/if}
       {#each month[day] as event}
         {#if event["title"] !== "" && event["title"] !== undefined}

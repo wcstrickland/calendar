@@ -18,7 +18,7 @@ export let data;
     background-color: rgb(230, 230, 230);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    margin: .5em 5px 0 5px;
+    margin: 1em 5px 0 5px;
     border-radius: 10px;
   }
 
