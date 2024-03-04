@@ -159,7 +159,7 @@ let data = {
     "22": [{
         "title": "Gladys",
         "location" : "Little Professor",
-        "time": "TBD",
+        "time": "730PM",
         "link": "https://www.instagram.com/p/C38MqLYRR4H/",
         "img": "https://cdn.discordapp.com/attachments/1162939043332501576/1212831459497345155/430173313_3660646624179507_5685130002341259563_n.jpg?ex=65f34451&is=65e0cf51&hm=118c2ff49efb0fe6873df8d421ffa1ff3699c83a7faed45ac9cb3e87a9cd57f8&"
     }],
