@@ -5,7 +5,7 @@
   let events = useMonth[label];
   let today = new Date();
   console.log(today.getDate())
-  let past = (parseInt(label) < today.getDate() - 1) && currentMonth;
+  let past = (parseInt(label) < today.getDate() ) && currentMonth;
 </script>
 
 <div id="cell" style="display: flex; flex-direction:row;position:relative;">

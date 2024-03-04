@@ -26,7 +26,7 @@
 
 <div style="display:flex; flex-direction:column">
   {#each days as day, i}
-    {#if i >= today.getDate() -1  || !currentMonth}
+    {#if i >= today.getDate() || !currentMonth}
       {#if month[day][0]["title"] !== "" && month[day][0]["title"] !== undefined}
         <h1>{getDayOfWeek(day, month.dayOfFirst)} {month.month} {day}</h1>
       {:else}
