@@ -13,16 +13,18 @@
       dayOfFirst={currentMonth.dayOfFirst}
       numDays={currentMonth.numDays}
       month={currentMonth.month}
+      currentMonth={true}
     />
     <Calendar
       useMonth={nextMonth}
       dayOfFirst={nextMonth.dayOfFirst}
       numDays={nextMonth.numDays}
       month={nextMonth.month}
+      currentMonth={false}
     />
   {:else}
-    <Scroller month={currentMonth} />
-    <Scroller month={nextMonth} />
+    <Scroller currentMonth={true} month={currentMonth} />
+    <Scroller currentMonth={false} month={nextMonth} />
   {/if}
 </main>
 
