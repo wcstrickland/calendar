@@ -113,6 +113,12 @@ let data = {
         "time": "7:30 & 9:30 PM",
         "link": "http://extemporaneoustheatre.com/boxoffice.asp",
         "img": "https://media.discordapp.net/attachments/1162939991220043787/1212979053045219378/image.png?ex=65f3cdc6&is=65e158c6&hm=f286a1ab6d7bbacd26bb9c96b7e5e4968e9e623af8df8ca9d0b3d8e9ad40b984&=&format=webp&quality=lossless"
+    },{
+        "title": "Ugly Baby",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby?date=2024-03-15T20:00:00",
+        "img": "https://media.discordapp.net/attachments/1162939043332501576/1216782579177623672/432513797_17892390854988025_2746252803501838223_n.jpg?ex=6601a415&is=65ef2f15&hm=6083a6adc7ff809f76bc66d390d3f7271f33b72a7009788e92d1d61041d8dabc&=&format=webp&width=671&height=671"
     }],
     "16": [{
         "title": "",
