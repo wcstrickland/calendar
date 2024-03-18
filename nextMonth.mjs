@@ -78,7 +78,7 @@ let data = {
         "location" : "True Story",
         "time": "7PM",
         "link": "https://www.eventcreate.com/e/liz-glazer-at-true-story",
-        "img": "/lizGlazer.png"
+        "img": "lizGlazer.png"
     }],
     "12": [{
         "title": "",
