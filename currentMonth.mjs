@@ -166,8 +166,8 @@ let data = {
         "title": "Gladys",
         "location" : "Little Professor",
         "time": "730PM",
-        "link": "https://www.instagram.com/p/C38MqLYRR4H/",
-        "img": "https://cdn.discordapp.com/attachments/1162939043332501576/1212831459497345155/430173313_3660646624179507_5685130002341259563_n.jpg?ex=65f34451&is=65e0cf51&hm=118c2ff49efb0fe6873df8d421ffa1ff3699c83a7faed45ac9cb3e87a9cd57f8&"
+        "link": "https://littleprofessorbookshop.com/products/gladys-improv-comedy-show-march-22nd",
+        "img": "gladysBomb.jpg"
     }],
     "23": [{
         "title": "",
@@ -188,7 +188,7 @@ let data = {
         "location" : "Saturn",
         "time": "730PM",
         "link": "https://wl.seetickets.us/event/the-moth-birmingham-storyslam:-dazzled/583010?afflky=SaturnBirmingham",
-        "img": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMWYzODU4ZGItNTBkZi00MWFkLWEzNWMtZDViOWU3NzVjYjhhIiwiZWRpdHMiOnt9fQ=="
+        "img": "moth.jpg"
     }],
     "26": [{
         "title": "",

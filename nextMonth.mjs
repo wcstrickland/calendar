@@ -71,14 +71,14 @@ let data = {
         "location" : "Druid City Brewing",
         "time": "7PM",
         "link": "https://www.eventcreate.com/e/lizglazerdruidcity",
-        "img": "https://media.discordapp.net/attachments/1162939043332501576/1212925777042087966/Liz_Glazer_-_Alabama_April_10__11_.jpg?ex=65f39c28&is=65e12728&hm=03036a5d9fada2018b134481062b566edd0e9567662de085015e3b7c5ce7dd4d&=&format=webp&width=672&height=671"
+        "img": "lizGlazer.png"
     }],
     "11": [{
         "title": "Liz Glazer",
         "location" : "True Story",
         "time": "7PM",
         "link": "https://www.eventcreate.com/e/liz-glazer-at-true-story",
-        "img": "https://media.discordapp.net/attachments/1162939043332501576/1212925777042087966/Liz_Glazer_-_Alabama_April_10__11_.jpg?ex=65f39c28&is=65e12728&hm=03036a5d9fada2018b134481062b566edd0e9567662de085015e3b7c5ce7dd4d&=&format=webp&width=672&height=671"
+        "img": "/lizGlazer.png"
     }],
     "12": [{
         "title": "",
@@ -210,7 +210,7 @@ let data = {
         "location" : "Saturn",
         "time": "730PM",
         "link": "https://wl.seetickets.us/event/the-moth-birmingham-storyslam:-green/583011?afflky=SaturnBirmingham",
-        "img": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiMWYzODU4ZGItNTBkZi00MWFkLWEzNWMtZDViOWU3NzVjYjhhIiwiZWRpdHMiOnt9fQ=="
+        "img": "./public/moth.jpg"
     }],
     "30": [{
         "title": "",
