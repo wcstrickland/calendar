@@ -210,7 +210,7 @@ let data = {
         "location" : "Saturn",
         "time": "730PM",
         "link": "https://wl.seetickets.us/event/the-moth-birmingham-storyslam:-green/583011?afflky=SaturnBirmingham",
-        "img": "./public/moth.jpg"
+        "img": "moth.jpg"
     }],
     "30": [{
         "title": "",
