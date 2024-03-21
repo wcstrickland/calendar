@@ -189,13 +189,19 @@ let data = {
         "time": "730PM",
         "link": "https://wl.seetickets.us/event/the-moth-birmingham-storyslam:-dazzled/583010?afflky=SaturnBirmingham",
         "img": "moth.jpg"
+    }, {
+        "title": "101 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/101-class-showcase?date=2024-03-25T19:00:00",
+        "img": "101showcase1.png"
     }],
     "26": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "201 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/201-class-showcase?date=2024-03-26T19:00:00",
+        "img": "201showcase.png"
     }],
     "27": [{
         "title": "CGI Bingo",
