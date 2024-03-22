@@ -211,11 +211,11 @@ let data = {
         "img": "https://uploads.tickettailor.com/c_crop,dpr_1.0,h_500,q_100,w_500,x_0,y_0/c_scale,h_108,q_85,w_108/v1/production/userfiles/jyycyfrcfdl9mbolvx8d.jpg?_a=BAAASyDQ"
     }],
     "28": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-03-28T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "29": [{
         "title": "",

@@ -25,11 +25,11 @@ let data = {
         "img": ""
     }],
     "4": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-04-04T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "5": [{
         "title": "",
