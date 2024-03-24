@@ -79,6 +79,12 @@ let data = {
         "time": "7PM",
         "link": "https://www.eventcreate.com/e/liz-glazer-at-true-story",
         "img": "lizGlazer.png"
+    },{
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-04-11T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "12": [{
         "title": "",
@@ -129,18 +135,18 @@ let data = {
         "img": ""
     }],
     "18": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-04-18T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "19": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Ugly Baby",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby-b154471a-730d-4bc5-8803-7ab94d22d61e?date=2024-04-19T20:00:00",
+        "img": "ub_4-19.png"
     }],
     "20": [{
         "title": "",
@@ -178,11 +184,11 @@ let data = {
         "img": ""
     }],
     "25": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-04-25T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "26": [{
         "title": "",
