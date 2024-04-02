@@ -32,11 +32,11 @@ let data = {
         "img": "afterschoolspecial.png"
     }],
     "5": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Gladys",
+        "location" : "Faraway",
+        "time": "7PM & 9PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/gladys-at-faraway-early-show-9f90a2?date=2024-04-05T19:00:00",
+        "img": "APRIL_5.jpg"
     }],
     "6": [{
         "title": "",
