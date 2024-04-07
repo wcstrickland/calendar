@@ -53,11 +53,11 @@ let data = {
         "img": ""
     }],
     "8": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Imporov! At the Cinema",
+        "location" : "Sidewalk",
+        "time": "7PM",
+        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023901?",
+        "img": "cinema.jpg"
     }],
     "9": [{
         "title": "",

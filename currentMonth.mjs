@@ -72,7 +72,14 @@ let data = {
         "time": "7PM",
         "link": "https://www.eventcreate.com/e/lizglazerdruidcity",
         "img": "lizGlazer.png"
-    }],
+    },{
+        "title": "Improv! At the Cinema",
+        "location" : "Sidewalk",
+        "time": "7PM",
+        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023900?",
+        "img": "cinema.jpg"
+    }
+],
     "11": [{
         "title": "Liz Glazer",
         "location" : "True Story",
@@ -94,11 +101,11 @@ let data = {
         "img": ""
     }],
     "13": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "301 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/301-class-showcase-7pm?date=2024-04-13T19:00:00",
+        "img": "301_Showcase.png"
     },{
         "title": "",
         "location" : "",
@@ -177,11 +184,11 @@ let data = {
         "img": ""
     }],
     "24": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Roll for Chaos!",
+        "location" : "Sidewalk",
+        "time": "7PM",
+        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023892?",
+        "img": "chaos.png"
     }],
     "25": [{
         "title": "After School Special",
