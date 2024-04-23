@@ -205,11 +205,11 @@ let data = {
         "img": ""
     }],
     "27": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Let Me Let You Go",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/letmeletyougo?date=2024-04-27T20:00:00",
+        "img": "let_me_let_you_go.jpg"
     }],
     "28": [{
         "title": "",
