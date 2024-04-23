@@ -11,11 +11,11 @@ let data = {
         "img": ""
     }],
     "2": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-02T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "3": [{
         "title": "",
@@ -60,11 +60,11 @@ let data = {
         "img": "cinema.jpg"
     }],
     "9": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "10": [{
         "title": "",
