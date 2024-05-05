@@ -1,6 +1,6 @@
 let data = {
-    "month": "May",
-    "dayOfFirst": 3,
+    "month": "June",
+    "dayOfFirst": 6,
     "numDays": 31,
     "x" : [{}],
     "1": [{
@@ -11,11 +11,11 @@ let data = {
         "img": ""
     }],
     "2": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-02T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "3": [{
         "title": "",
@@ -53,18 +53,18 @@ let data = {
         "img": ""
     }],
     "8": [{
-        "title": "Imporov! At the Cinema",
-        "location" : "Sidewalk",
-        "time": "7PM",
-        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023901?",
-        "img": "cinema.jpg"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "9": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "10": [{
         "title": "",
