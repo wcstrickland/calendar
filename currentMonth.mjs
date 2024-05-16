@@ -115,18 +115,18 @@ let data = {
         "img": ""
     }],
     "16": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "17": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Ugly Baby",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby?date=2024-05-17T20:00:00",
+        "img": "ub517.jpg"
     }],
     "18": [{
         "title": "",
@@ -164,18 +164,18 @@ let data = {
         "img": ""
     }],
     "23": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "24": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Team Jam",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/team-jam?date=2024-05-24T20:00:00",
+        "img": "Team_Jam.png"
     }],
     "25": [{
         "title": "",
@@ -213,11 +213,11 @@ let data = {
         "img": ""
     }],
     "30": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
+        "img": "afterschoolspecial.png"
     }],
     "31": [{
         "title": "",
