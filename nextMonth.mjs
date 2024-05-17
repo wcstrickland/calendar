@@ -46,18 +46,18 @@ let data = {
         "img": "afterschoolspecial.png"
     }],
     "7": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "401 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "401_showcase.png"
     }],
     "8": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "301 Showcase",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/301-student-showcase?date=2024-06-08T20:00:00",
+        "img": "301_Showcase.png"
     }],
     "9": [{
         "title": "",
@@ -101,11 +101,11 @@ let data = {
         "img": ""
     }],
     "14": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "401 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "401_showcase.png"
     }],
     "15": [{
         "title": "",

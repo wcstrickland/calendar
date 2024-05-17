@@ -220,11 +220,11 @@ let data = {
         "img": "afterschoolspecial.png"
     }],
     "31": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "401 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "401_showcase.png"
     }],
 }
 
