@@ -164,11 +164,11 @@ let data = {
         "img": ""
     }],
     "23": [{
-        "title": "Funny Business",
-        "location" : "Carrigan's",
-        "time": "8PM",
-        "link": "https://www.eventbrite.com/e/funny-business-tickets-903839798167?aff=erelexpmlt",
-        "img": "fb523.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "24": [{
         "title": "",
