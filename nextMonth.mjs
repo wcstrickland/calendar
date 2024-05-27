@@ -60,11 +60,11 @@ let data = {
         "img": "301_Showcase.png"
     }],
     "9": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "201 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-sunday?date=2024-06-09T19:00:00",
+        "img": "201_showcase_6_9.png"
     }],
     "10": [{
         "title": "",
@@ -136,11 +136,11 @@ let data = {
         "img": ""
     }],
     "19": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "201 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-6-19?date=2024-06-19T19:00:00",
+        "img": "201_showcase_6_19.png"
     }],
     "20": [{
         "title": "",
