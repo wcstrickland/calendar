@@ -108,11 +108,11 @@ let data = {
         "img": "401_showcase.png"
     }],
     "15": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Literacy Council Fundraiser",
+        "location" : "Faraway",
+        "time": "6PM",
+        "link": "https://tlcimprovnight.swell.gives/",
+        "img": "TLC.png"
     }],
     "16": [{
         "title": "",
