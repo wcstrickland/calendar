@@ -1,6 +1,6 @@
 let data = {
-    "month": "May",
-    "dayOfFirst": 3,
+    "month": "June",
+    "dayOfFirst": 6,
     "numDays": 31,
     "x" : [{}],
     "1": [{
@@ -11,11 +11,11 @@ let data = {
         "img": ""
     }],
     "2": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-02T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "3": [{
         "title": "",
@@ -39,32 +39,32 @@ let data = {
         "img": ""
     }],
     "6": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
-    }],
-    "7": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
-    }],
-    "8": [{
-        "title": "Imporov! At the Cinema",
-        "location" : "Sidewalk",
-        "time": "7PM",
-        "link": "https://www.tickettailor.com/events/chaoticgoodimprov/1023901?",
-        "img": "cinema.jpg"
-    }],
-    "9": [{
         "title": "After School Special",
         "location" : "Faraway",
         "time": "7PM",
         "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
         "img": "afterschoolspecial.png"
+    }],
+    "7": [{
+        "title": "401 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "401_showcase.png"
+    }],
+    "8": [{
+        "title": "301 Showcase",
+        "location" : "Faraway",
+        "time": "8PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/301-student-showcase?date=2024-06-08T20:00:00",
+        "img": "301_Showcase.png"
+    }],
+    "9": [{
+        "title": "201 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-sunday?date=2024-06-09T19:00:00",
+        "img": "201_showcase_6_9.png"
     }],
     "10": [{
         "title": "",
@@ -88,11 +88,11 @@ let data = {
         "img": ""
     }],
     "13": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After School Special",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
+        "img": "afterschoolspecial.png"
     },{
         "title": "",
         "location" : "",
@@ -101,32 +101,32 @@ let data = {
         "img": ""
     }],
     "14": [{
-        "title": "Gladys",
-        "location" : "Saturn",
-        "time": "830PM",
-        "link": "https://wl.seetickets.us/event/gladys-improv/598428?afflky=SaturnBirmingham",
-        "img": "cowboy.jpg"
+        "title": "401 Showcase",
+        "location" : "Faraway",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "401_showcase.png"
     }],
     "15": [{
+        "title": "Literacy Council Fundraiser",
+        "location" : "Faraway",
+        "time": "6PM",
+        "link": "https://tlcimprovnight.swell.gives/",
+        "img": "TLC.png"
+    }],
+    "16": [{
         "title": "",
         "location" : "",
         "time": "",
         "link": "",
         "img": ""
     }],
-    "16": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
-    }],
     "17": [{
-        "title": "Ugly Baby",
-        "location" : "Faraway",
-        "time": "8PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby?date=2024-05-17T20:00:00",
-        "img": "ub517.jpg"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "18": [{
         "title": "",
@@ -136,11 +136,11 @@ let data = {
         "img": ""
     }],
     "19": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "201 Showcase",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-6-19?date=2024-06-19T19:00:00",
+        "img": "201_showcase_6_19.png"
     }],
     "20": [{
         "title": "",
@@ -164,18 +164,18 @@ let data = {
         "img": ""
     }],
     "23": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "24": [{
-        "title": "Team Jam",
-        "location" : "Faraway",
-        "time": "8PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/team-jam?date=2024-05-24T20:00:00",
-        "img": "Team_Jam.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "25": [{
         "title": "",
@@ -213,18 +213,18 @@ let data = {
         "img": ""
     }],
     "30": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "31": [{
-        "title": "401 Showcase",
-        "location" : "Faraway",
-        "time": "7 & 9 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "401_showcase.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
 }
 
