@@ -143,11 +143,11 @@ let data = {
         "img": "201_showcase_6_19.png"
     }],
     "20": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Gladys",
+        "location" : "Saturn",
+        "time": "8PM",
+        "link": "https://wl.seetickets.us/event/Gladys-Improv/607319?afflky=SaturnBirmingham",
+        "img": "summer.jpg"
     }],
     "21": [{
         "title": "",
