@@ -1,6 +1,6 @@
 let data = {
-    "month": "June",
-    "dayOfFirst": 6,
+    "month": "July",
+    "dayOfFirst": 1,
     "numDays": 31,
     "x" : [{}],
     "1": [{
@@ -39,32 +39,32 @@ let data = {
         "img": ""
     }],
     "6": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "7": [{
-        "title": "401 Showcase",
-        "location" : "Faraway",
-        "time": "7 & 9 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "401_showcase.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "8": [{
-        "title": "301 Showcase",
-        "location" : "Faraway",
-        "time": "8PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/301-student-showcase?date=2024-06-08T20:00:00",
-        "img": "301_Showcase.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "9": [{
-        "title": "201 Showcase",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-sunday?date=2024-06-09T19:00:00",
-        "img": "201_showcase_6_9.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "10": [{
         "title": "",
@@ -88,11 +88,11 @@ let data = {
         "img": ""
     }],
     "13": [{
-        "title": "After School Special",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/after-school-special?date=2024-05-09T19:00:00",
-        "img": "afterschoolspecial.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     },{
         "title": "",
         "location" : "",
@@ -101,18 +101,18 @@ let data = {
         "img": ""
     }],
     "14": [{
-        "title": "401 Showcase",
-        "location" : "Faraway",
-        "time": "7 & 9 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "401_showcase.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "15": [{
-        "title": "Literacy Council Fundraiser",
-        "location" : "Faraway",
-        "time": "6PM",
-        "link": "https://tlcimprovnight.swell.gives/",
-        "img": "TLC.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "16": [{
         "title": "",
@@ -136,18 +136,18 @@ let data = {
         "img": ""
     }],
     "19": [{
-        "title": "201 Showcase",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/201-student-showcase-6-19?date=2024-06-19T19:00:00",
-        "img": "201_showcase_6_19.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "20": [{
-        "title": "Gladys",
-        "location" : "Saturn",
-        "time": "8PM",
-        "link": "https://wl.seetickets.us/event/Gladys-Improv/607319?afflky=SaturnBirmingham",
-        "img": "summer.jpg"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "21": [{
         "title": "",
