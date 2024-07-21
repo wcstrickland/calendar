@@ -11,11 +11,11 @@ let data = {
         "img": ""
     }],
     "2": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Good Gladys / Bad Gladys",
+        "location" : "Faraway Theater",
+        "time": "7 & 9 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "goodBad.png"
     }],
     "3": [{
         "title": "",
@@ -53,11 +53,11 @@ let data = {
         "img": ""
     }],
     "8": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After-school Special",
+        "location" : "Faraway Theater",
+        "time": "7 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "after.png"
     }],
     "9": [{
         "title": "",
@@ -108,11 +108,11 @@ let data = {
         "img": ""
     }],
     "15": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After-school Special",
+        "location" : "Faraway Theater",
+        "time": "7 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "after.png"
     }],
     "16": [{
         "title": "",
@@ -157,11 +157,11 @@ let data = {
         "img": ""
     }],
     "22": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After-school Special",
+        "location" : "Faraway Theater",
+        "time": "7 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "after.png"
     }],
     "23": [{
         "title": "",
@@ -206,11 +206,11 @@ let data = {
         "img": ""
     }],
     "29": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "After-school Special",
+        "location" : "Faraway Theater",
+        "time": "7 PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows",
+        "img": "after.png"
     }],
     "30": [{
         "title": "",
