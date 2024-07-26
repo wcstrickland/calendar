@@ -60,11 +60,11 @@ let data = {
         "img": "after.png"
     }],
     "9": [{
-        "title": "",
-        "location" : "",
-        "time": "",
-        "link": "",
-        "img": ""
+        "title": "Ugly Baby",
+        "location" : "Faraway",
+        "time": "7PM",
+        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby?date=2024-08-09T19:00:00",
+        "img": "ub.png"
     }],
     "10": [{
         "title": "",
