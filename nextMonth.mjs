@@ -1,7 +1,7 @@
 let data = {
-    "month": "August",
-    "dayOfFirst": 4,
-    "numDays": 31,
+    "month": "September",
+    "dayOfFirst": 0,
+    "numDays": 30,
     "x" : [{}],
     "1": [{
         "title": "",
@@ -11,11 +11,11 @@ let data = {
         "img": ""
     }],
     "2": [{
-        "title": "Good Gladys / Bad Gladys",
-        "location" : "Faraway Theater",
-        "time": "7 & 9 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "goodBad.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "3": [{
         "title": "",
@@ -53,18 +53,18 @@ let data = {
         "img": ""
     }],
     "8": [{
-        "title": "After-school Special",
-        "location" : "Faraway Theater",
-        "time": "7 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "after.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "9": [{
-        "title": "Ugly Baby",
-        "location" : "Faraway",
-        "time": "7PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows/ugly-baby?date=2024-08-09T19:00:00",
-        "img": "ub.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "10": [{
         "title": "",
@@ -108,11 +108,11 @@ let data = {
         "img": ""
     }],
     "15": [{
-        "title": "After-school Special",
-        "location" : "Faraway Theater",
-        "time": "7 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "after.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "16": [{
         "title": "",
@@ -157,11 +157,11 @@ let data = {
         "img": ""
     }],
     "22": [{
-        "title": "After-school Special",
-        "location" : "Faraway Theater",
-        "time": "7 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "after.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "23": [{
         "title": "",
@@ -206,11 +206,11 @@ let data = {
         "img": ""
     }],
     "29": [{
-        "title": "After-school Special",
-        "location" : "Faraway Theater",
-        "time": "7 PM",
-        "link": "https://farawaybham.fourthwalltickets.com/shows",
-        "img": "after.png"
+        "title": "",
+        "location" : "",
+        "time": "",
+        "link": "",
+        "img": ""
     }],
     "30": [{
         "title": "",
